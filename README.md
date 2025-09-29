@@ -1,5 +1,3 @@
-Harika bir proje! İşte bu not defteri için projenin amacını, adımlarını ve sonuçlarını özetleyen bir README dosyası önerisi.
-
 Felç Riski Tahmini (Stroke Risk Prediction)
 Bu proje, çeşitli sağlık ve demografik verilere dayanarak bir bireyin felç geçirme olasılığını tahmin etmeyi amaçlamaktadır. Bu sınıflandırma görevi için bir Lojistik Regresyon modeli oluşturulmuş, değerlendirilmiş ve optimize edilmiştir.
 
